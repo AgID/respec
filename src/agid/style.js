@@ -45,7 +45,7 @@ function createMetaViewport() {
 function createBaseStyle() {
   const link = document.createElement("link");
   link.rel = "stylesheet";
-  link.href = "https://semiceu.github.io/respec-style/base.css";
+  link.href = "https://agid.github.io/respec-style/base.css";
   link.classList.add("removeOnSave");
   return link;
 }
@@ -79,7 +79,7 @@ function createResourceHints() {
     },
     {
       hint: "preload", // all specs include on base.css.
-      href: "https://semiceu.github.io/respec-style/base.css",
+      href: "https://agid.github.io/respec-style/base.css",
       as: "style",
     },
     {

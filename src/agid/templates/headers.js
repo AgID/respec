@@ -46,7 +46,7 @@ const localizationStrings = {
     prev_editor_draft: "Bozza precedente del redattore:",
     prev_version: "Versione precedente:",
     prev_recommendation: "Precedente Linea Guida:",
-    latest_recommendation: "Linee Guida precedenti:",
+    latest_recommendation: "Precedenti Linee Guida:",
   },
   nl: {
     author: "Auteur:",
