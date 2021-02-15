@@ -15,6 +15,11 @@ const localizationStrings = {
     norm_references: "Normative references",
     references: "References",
   },
+  it: {
+    info_references: "Riferimenti informativi",
+    norm_references: "Riferimenti normativi",
+    references: "Riferimenti",
+  },
   ko: {
     references: "참조",
   },
